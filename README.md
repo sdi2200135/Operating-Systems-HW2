@@ -1,5 +1,4 @@
-# Operating Systems-HW2
-# MLFQ Scheduler for xv6-riscv
+# xv6 MLFQ Scheduler (Operating Systems-HW2)
 
 ---
 
