@@ -1,9 +1,6 @@
 # Operating Systems-HW2
 # MLFQ Scheduler for xv6-riscv
 
-## Author
-Papathanasiou Eleni – 1115202200135
-
 ---
 
 ## 1. Introduction
